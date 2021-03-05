@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 📍 The Netherlands
+- 🎒 Student @ Hogeschool van Amsterdam
+- 🌐 www.konincks.com
+- 📫 jesper@konincks.com
 
 <!--
 **jesperkonincks/jesperkonincks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
