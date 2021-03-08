@@ -1,7 +1,7 @@
 ### 👋 Hi there 
 - 📍 Located in The Netherlands
 - 📚 Student @ Hogeschool van Amsterdam
-- 🌐 Visit my website @ www.konincks.com
+- 🌐 www.konincks.com
 - 📫 Contact me @ jesper@konincks.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesperkonincks)](https://github.com/anuraghazra/github-readme-stats)
